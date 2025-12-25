@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesan untuk Kayla Charlone</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .message {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #ff69b4;
+        }
+        .cute-image {
+            width: 200px;
+            height: auto;
+            margin: 20px auto;
+            display: block;
+        }
+        .money-image {
+            width: 150px;
+            height: auto;
+            margin: 10px auto;
+            display: block;
+        }
+        button {
+            background-color: #ff69b4;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #ff1493;
+        }
+    </style>
+</head>
+<body>
+    <h1>Website untuk Kayla Charlone yang Bau Kecut</h1>
+    
+    <!-- Musik lucu untuk remaja (embed YouTube lagu "Happy" oleh Pharrell Williams - upbeat dan lucu) -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbZSe6N_BXs?autoplay=1&loop=1&playlist=ZbZSe6N_BXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display: block; margin: 20px auto;"></iframe>
+    
+    <div class="message">
+        HAIIII KAYLA BAUU KECUTT aku gabisaaa tidur nii akhirnya bikinn inii,aku kepikiran kamu terus yang marah,maaf ya kalau aku kaya ga menghargai waktu kamu padahal aku uda berusaha fast respon ke kamu aku tadi pulang langsung buka hp langsung chat kamu,eh tau tau aku dimarahin sama bunda gara gara Iqbal nyemplungin hp bunda ke bak air aku diomelin gara gara gabisa njaga dia katanya waktu dimarahin aku juga sempetin bales chat km Kay meskipun slowresp itupun aku diomelin gara gara ga dengerin bunda,maaf ya kaylaaa lain kali aku bener bener uda selesai sama urusanku baru chat kamu biar ga setengah setengah kaya gini,OKEEE GOODNIGHT KAYLA CHAROLINEEE BAUUU KECURT SLEEP WELL AND HAVE A SWEET DREAMS LOVE YOUUUU 
+        
+        <!-- Gambar bakso Malang lucu -->
+        <img src="https://i.imgur.com/8kQ8Z8Z.png" alt="Gambar bakso Malang lucu" class="money-image">
+        
+        <!-- Tombol emoji untuk memaafkan -->
+        <button onclick="alert('okee aku maafin kamuu kecut')">🤢🤢🤢</button>
+        
+        <!-- Gambar lucu berwarna pink -->
+        <img src="https://via.placeholder.com/300x200/ff69b4/ffffff?text=Cute+Pink+Unicorn" alt="Gambar lucu pink" class="cute-image">
+    </div>
+    
+    <script>
+        // Fungsi untuk tombol (sudah ada di onclick)
+    </script>
+</body>
+</html>
